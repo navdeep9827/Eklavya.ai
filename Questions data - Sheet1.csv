@@ -1,0 +1,300 @@
+Question,Option1,Option2,Option3,Option4,Correct Answer,Topic
+What is the formula for calculating work?,Work = Force * distance,Work = mass * gravity,Work = power * time,Work = energy / time,Work = Force * distance,Physics
+Which of the following is a unit of energy?,Newton,Joule,Watt,Pascal,Joule,Physics
+Which type of energy is associated with motion?,Potential Energy,Kinetic Energy,Thermal Energy,Electrical Energy,Kinetic Energy,Physics
+What is the unit of power?,Watt,Joule,Newton,Volt,Watt,Physics
+"In physics, what is the definition of work?",Displacement in the direction of force,Force multiplied by time,Application of force over a distance,Change in velocity,Application of force over a distance,Physics
+Which law of thermodynamics states that energy cannot be created or destroyed?,First Law,Second Law,Third Law,Zeroth Law,First Law,Physics
+What is the gravitational potential energy formula?,PE = m * g,PE = 1/2 * m * v^2,PE = F * d,PE = m*g*h,PE = m * h,Physics
+Which of the following is a scalar quantity related to energy?,Force,Velocity,Power,Work,Work,Physics
+What is the formula for power in terms of work and time?,P = W * t,P = W / t,P = W + t,P = W - t,P = W / t,Physics
+Which law of motion is related to the conservation of energy?,Newton's First Law,Newton's Second Law,Newton's Third Law,None of the above,Newton's Third Law,Physics
+What is the force that opposes the relative motion or tendency of such motion of two surfaces in contact?,Tension,Friction,Gravity,Magnetic force,Friction,Physics
+Which type of friction acts when an object is still and an external force is applied to move it?,Static friction,Dynamic friction,Rolling friction,Kinetic friction,Static friction,Physics
+What is the coefficient of friction?,A measure of the force needed to move an object horizontally,A measure of the force needed to lift an object vertically,A measure of the force needed to submerge an object in water,A measure of the force of friction between two objects,A measure of the force of friction between two objects,Physics
+Which surface would generally have a higher coefficient of friction?,Smooth surface,Rough surface,Flat surface,Polished surface,Rough surface,Physics
+In which direction does the frictional force act on an object moving on a horizontal surface?,Opposite to the motion,In the direction of motion,Normal to the surface,Parallel to the surface,Opposite to the motion,Physics
+What is the SI unit of friction?,Newton,Pascal,Joule,Coulomb,Newton,Physics
+Which type of friction occurs between the wheels of a car and the road surface?,Static friction,Dynamic friction,Rolling friction,Kinetic friction,Rolling friction,Physics
+How does the presence of lubricants affect friction between two surfaces?,Increases friction,Decreases friction,No effect on friction,Changes the direction of friction,Decreases friction,Physics
+What quantity has only magnitude and no direction?,Scalar,Vector,Magnitude,Direction,Scalar,Physics
+Which of the following has both magnitude and direction?,Speed,Distance,Velocity,Time,Velocity,Physics
+What is a vector quantity?,A quantity with only magnitude,A quantity with magnitude and direction,A quantity with no units,A quantity with only direction,A quantity with magnitude and direction,Physics
+Which of the following is a scalar quantity?,Force,Acceleration,Speed,Displacement,Speed,Physics
+What is the result when adding two vectors of equal magnitudes in opposite directions?,Zero vector,Double vector,Unit vector,Scalar vector,Zero vector,Physics
+How is the subtraction of vectors performed?,Add the magnitudes,Subtract the magnitudes,Add the magnitudes and directions,"Add the magnitudes, subtract the directions",Add the magnitudes and reverse the direction,Physics
+Which of the following is a vector quantity?,Mass,Temperature,Displacement,Density,Displacement,Physics
+What is the unit of displacement?,Meter per second,Meter,Meter per second squared,Meter squared,Meter,Physics
+"In vector notation, what does 'i' represent?",Magnitude,Direction,Unit vector in the x-direction,Unit vector in the y-direction,Unit vector in the x-direction,Physics
+Which operation is used to find the dot product of two vectors?,Multiplication,Addition,Subtraction,Division,Multiplication,Physics
+"Which of Newton's laws states that an object at rest will stay at rest, and an object in motion will stay in motion with a constant velocity unless acted upon by a net external force?",First Law,Second Law,Third Law,Zeroth Law,First Law,Physics
+What is the formula for Newton's second law of motion?,F = m * a,F = m / a,F = a / m,F = m + a,F = m * a,Physics
+"According to Newton's third law, if object A exerts a force on object B, then:",Object B exerts a force on object A with the same magnitude,Object B exerts a force on object A with a different magnitude,Object A does not experience any force,Object A exerts a force on object B with a different magnitude,Object B exerts a force on object A with the same magnitude,Physics
+Which law of motion is represented by the equation F = ma?,First Law,Second Law,Third Law,Zeroth Law,Second Law,Physics
+What is the SI unit of force?,Newton,Joule,Watt,Pascal,Newton,Physics
+"If the net force acting on an object is zero, according to Newton's second law:",The object is at rest,The object is accelerating,The object is in equilibrium,The object is slowing down,The object is in equilibrium,Physics
+In which of Newton's laws does the action and reaction forces act on different objects?,First Law,Second Law,Third Law,Zeroth Law,Third Law,Physics
+What is the tendency of an object to resist changes in its motion?,Inertia,Acceleration,Velocity,Force,Inertia,Physics
+"If you apply a force to an object and it moves in the direction of the force, what can you conclude about the force?",The force is zero,The force is negative,The force is positive,The force is non-zero,The force is non-zero,Physics
+"When a person jumps off a diving board, what law of motion is demonstrated as they move upwards and then begin to fall back down?",First Law,Second Law,Third Law,Zeroth Law,First Law,Physics
+What force keeps an object moving in a circular path?,Frictional force,Tension force,Centripetal force,Centrifugal force,Centripetal force,Physics
+"In circular motion, what is the direction of the centripetal force?",Outward from the center,Toward the center,Parallel to the motion,Opposite to gravity,Toward the center,Physics
+What is the relationship between the centripetal force and the mass of an object in circular motion?,Directly proportional,Inversely proportional,No relationship,Square of the mass,Directly proportional,Physics
+"In circular motion, what happens to the speed of an object if the radius of the circle decreases?",Speed increases,Speed decreases,Speed remains constant,No effect on speed,Speed increases,Physics
+What is the unit of centripetal force?,Newton,Pascal,Joule,Coulomb,Newton,Physics
+Which of the following is an example of circular motion?,Swinging pendulum,Linear motion,Free fall,Projectile motion,Swinging pendulum,Physics
+What is the angular velocity of an object in circular motion?,Speed of the object,Distance traveled,Angle covered per unit time,Force applied,Angle covered per unit time,Physics
+What is the relationship between the radius and the centripetal force in circular motion?,Directly proportional,Inversely proportional,No relationship,Square of the radius,Inversely proportional,Physics
+What is the force that acts outward on an object in circular motion?,Frictional force,Tension force,Centripetal force,Centrifugal force,Centrifugal force,Physics
+What is the formula for centripetal acceleration?,a = v/t,a = v^2/r,a = F/m,a = mgh,a = v^2/r,Physics
+What happens to the centripetal force if the mass of an object in circular motion doubles?,Doubles,Halves,Remains the same,Quadruples,Doubles,Physics
+"In circular motion, what is the relationship between the centripetal force and the square of the velocity?",Directly proportional,Inversely proportional,No relationship,Square of the mass,Directly proportional,Physics
+Which force is responsible for the feeling of being pushed outward when a car turns a sharp corner?,Frictional force,Tension force,Centripetal force,Centrifugal force,Centrifugal force,Physics
+What is the minimum velocity required for an object to stay in orbit around the Earth?,Escape velocity,Terminal velocity,Circular velocity,Free fall velocity,Circular velocity,Physics
+What is the direction of the centripetal force acting on the Moon as it orbits the Earth?,Toward the Sun,Away from the Earth,Toward the Earth,Parallel to the orbit,Toward the Earth,Physics
+What is the Preamble of the Indian Constitution?,Introduction to the Constitution,Summary of laws,Preface to the Constitution,Outline of principles,Introduction to the Constitution,Polity
+Which part of the Constitution of India declares the provisions related to the Fundamental Rights?,Part III,Part II,Part IV,Part V,Part III,Polity
+What is the significance of the Directive Principles of State Policy (DPSP) in the Indian Constitution?,They provide guidelines for the government,They are enforceable in courts,They are justiciable in nature,They are only advisory in nature,They provide guidelines for the government,Polity
+Who is considered the 'Father of the Indian Constitution'?,B.R. Ambedkar,Jawaharlal Nehru,Mahatma Gandhi,Sardar Vallabhbhai Patel,B.R. Ambedkar,Polity
+Which article of the Indian Constitution deals with the Right to Equality?,Article 14,Article 15,Article 16,Article 19,Article 14,Polity
+What is the importance of Fundamental Rights in a democratic country?,Protection of citizens' liberties,Ensuring social justice,Empowering citizens,Promoting economic equality,Protection of citizens' liberties,Polity
+What are the Fundamental Duties prescribed by the Indian Constitution?,To uphold and protect the sovereignty of India,To provide equal opportunities,To protect the environment,To foster scientific temper,To uphold and protect the sovereignty of India,Polity
+Explain the concept of 'Writs' as provided under the Indian Constitution.,Orders issued by the Supreme Court,Legislative orders,Executive orders,Judicial orders,Judicial orders,Polity
+What are the Directive Principles of State Policy aimed at achieving?,Social and economic justice,Promotion of international cooperation,Protection of national heritage,Upliftment of backward classes,Social and economic justice,Polity
+Which amendment to the Constitution of India lowered the voting age from 21 to 18 years?,86th Amendment,42nd Amendment,44th Amendment,76th Amendment,61st Amendment,Polity
+What is the significance of the preamble in the Indian Constitution?,It embodies the philosophy of the Constitution,It outlines the objectives of the Constitution,It serves as a preamble to the Constitution,It forms the basis of the Constitution,It embodies the philosophy of the Constitution,Polity
+Discuss the significance of the Right to Constitutional Remedies in the Indian Constitution.,Ensures enforcement of Fundamental Rights,Ensures enforcement of DPSP,Ensures enforcement of Directive Principles,Ensures enforcement of laws,Ensures enforcement of Fundamental Rights,Polity
+What are the sources of Indian Constitution?,"British Constitution and Government of India Act, 1935",Constitutional Assembly and Constituent Assembly,"Government of India Act, 1919 and Government of India Act, 1935","Indian Independence Act, 1947 and Government of India Act, 1935",Constitutional Assembly and Constituent Assembly,Polity
+Explain the concept of 'Constitutionalism' in the context of the Indian Constitution.,Adherence to constitutional principles,Government's accountability to people,Rule of law,Separation of powers,Adherence to constitutional principles,Polity
+What is the difference between Fundamental Rights and Directive Principles of State Policy?,Fundamental Rights are enforceable in courts; DPSP are not,Fundamental Rights protect individuals; DPSP protect the state,Fundamental Rights are for citizens; DPSP are for states,Fundamental Rights are negative obligations; DPSP are positive obligations,Fundamental Rights are enforceable in courts; DPSP are not,Polity
+What is the term duration for a Member of Lok Sabha in India?,4 years,5 years,6 years,3 years,5 years,Polity
+Who is the head of the Union Executive in India?,President,Prime Minister,Speaker of Lok Sabha,Chief Justice of India,President,Polity
+Which of the following is the highest court of appeal in India?,Supreme Court,High Court,District Court,Constitutional Bench,Supreme Court,Polity
+Who appoints the Chief Justice of India?,Prime Minister,Chief Justice of India,President,Governor,President,Polity
+Which constitutional body in India is responsible for conducting elections?,Election Commission,Supreme Court,Rajya Sabha,Election Commission,Election Commission,Polity
+What is the minimum voting age in India?,18 years,21 years,25 years,30 years,18 years,Polity
+Which article of the Indian Constitution deals with the composition of the Rajya Sabha?,Article 81,Article 82,Article 83,Article 80,Article 80,Polity
+Who is known as the 'Father of the Indian Parliament'?,B.R. Ambedkar,Sardar Patel,Jawaharlal Nehru,Gopal Krishna Gokhale,B.R. Ambedkar,Polity
+Which body is responsible for the preparation of the Union Budget in India?,Finance Commission,Planning Commission,Central Bureau of Investigation,Public Accounts Committee,Union Finance Minister,Polity
+What is the tenure of the Chief Election Commissioner in India?,5 years,6 years,3 years,2 years,6 years,Polity
+Which political party was the first ruling party in independent India?,Indian National Congress,Bharatiya Janata Party,Communist Party of India,Janata Dal (Secular),Indian National Congress,Polity
+What is the term of office for a Governor of a state in India?,4 years,5 years,6 years,2 years,5 years,Polity
+Which constitutional body is responsible for the audit of the accounts of the Union and State governments?,Comptroller and Auditor General,Election Commission,Finance Commission,Public Service Commission,Comptroller and Auditor General,Polity
+Who has the power to dissolve the Lok Sabha before the completion of its term?,President,Prime Minister,Governor,Chief Justice of India,President,Polity
+Which political party is known as the 'Party with a Difference'?,Indian National Congress,Bharatiya Janata Party,Communist Party of India (Marxist),Aam Aadmi Party,Bharatiya Janata Party,Polity
+Which article of the Indian Constitution deals with the establishment of the Supreme Court?,Article 124,Article 125,Article 126,Article 127,Article 124,Polity
+Who appoints the Attorney General of India?,Prime Minister,Chief Justice of India,Law Minister,President,President,Polity
+What is the role of the Chief Justice of India in the appointment of other judges?,Sole authority to appoint judges,Consultative role in appointments,No role in appointments,Consultative role with the Prime Minister,Consultative role in appointments,Polity
+Which constitutional amendment introduced anti-defection laws in India?,42nd Amendment,44th Amendment,52nd Amendment,56th Amendment,52nd Amendment,Polity
+What is the term duration for a Rajya Sabha member?,4 years,6 years,5 years,2 years,6 years,Polity
+Who presides over the joint sitting of both Houses of Parliament?,Vice President,Speaker of Lok Sabha,President,Chairman of Rajya Sabha,Vice President,Polity
+What is the minimum voting age for contesting in Lok Sabha elections?,21 years,25 years,18 years,30 years,25 years,Polity
+Who is the guardian of Fundamental Rights as per the Indian Constitution?,President,Supreme Court,Governor,High Court,Supreme Court,Polity
+Which is the highest law officer in a state?,State Advocate General,Chief Minister,Advocate General,State Secretary,Governor,Polity
+What is the composition of the National Human Rights Commission (NHRC)?,5 members,7 members,3 members,9 members,5 members,Polity
+What is the term of a member of a State Legislative Assembly in India?,4 years,5 years,6 years,2 years,5 years,Polity
+Who administers the oath of office to the President of India?,Chief Justice of India,Prime Minister,Chief Justice of Delhi High Court,Chief Justice of High Court,Chief Justice of India,Polity
+Which schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha?,Eighth Schedule,Ninth Schedule,Tenth Schedule,Twelfth Schedule,Fourth Schedule,Polity
+Who can remove the Vice President of India from office?,Parliament,President,Rajya Sabha,Governor,Parliament,Polity
+What is the function of the National Commission for Scheduled Tribes?,Protection of tribal rights,Promotion of tribal culture,Safeguarding tribal lands,Ensuring tribal education,Safeguarding tribal lands,Polity
+Which constitutional body recommends the principles governing the grants-in-aid to the states?,Finance Commission,Planning Commission,Inter-State Council,National Development Council,Finance Commission,Polity
+Which country won the most gold medals in the Tokyo 2020 Olympics?,Japan,United States,China,Russia,United States,Current Affairs
+Who is the current President of the United States?,Donald Trump,Joe Biden,Barack Obama,Bill Clinton,Joe Biden,Current Affairs
+Which company developed the COVID-19 vaccine named 'Pfizer-BioNTech'?,Moderna,Johnson & Johnson,Pfizer,AstraZeneca,Pfizer,Current Affairs
+"Which country recently signed the Abraham Accords, normalizing relations with Israel?",United Arab Emirates,Saudi Arabia,Qatar,Kuwait,United Arab Emirates,Current Affairs
+Who won the Nobel Peace Prize in 2021?,Greta Thunberg,Malala Yousafzai,Jacinda Ardern,Joe Biden,Maria Ressa,Current Affairs
+Which planet's rover successfully landed on Mars in February 2021?,Venus,Mars,Jupiter,Saturn,Mars,Current Affairs
+Who is the current Prime Minister of the United Kingdom?,Boris Johnson,Theresa May,David Cameron,Boris Johnson,Boris Johnson,Current Affairs
+"Which cryptocurrency reached an all-time high value in 2021, surpassing $60,000 per coin?",Bitcoin,Ethereum,Litecoin,Dogecoin,Bitcoin,Current Affairs
+Which country recently experienced widespread protests following the disputed presidential election results?,Belarus,Myanmar,Thailand,Russia,Belarus,Current Affairs
+Which social media platform was banned in India in June 2021?,Twitter,Instagram,Facebook,TikTok,Twitter,Current Affairs
+Who became the first female vice president of the United States?,Hillary Clinton,Kamala Harris,Nancy Pelosi,Elizabeth Warren,Kamala Harris,Current Affairs
+Which organization announced its intention to send the first all-civilian crew to space in 2021?,NASA,SpaceX,Blue Origin,Virgin Galactic,SpaceX,Current Affairs
+Which country recently experienced a military coup resulting in the arrest of Aung San Suu Kyi?,Myanmar,Thailand,India,Vietnam,Myanmar,Current Affairs
+Who won the UEFA Euro 2020 football championship?,Italy,England,Portugal,France,Italy,Current Affairs
+Which environmental activist was named Time magazine's Person of the Year in 2019?,Greta Thunberg,David Attenborough,Greta Thunberg,Donald Trump,Greta Thunberg,Current Affairs
+Which streaming service released the TV series 'The Crown'?,Netflix,Amazon Prime Video,Disney+,Hulu,Netflix,Current Affairs
+"Which country recently legalized same-sex marriage, becoming the first in Asia to do so?",Taiwan,Japan,Australia,South Korea,Taiwan,Current Affairs
+Who won the 2021 Wimbledon men's singles title?,Novak Djokovic,Roger Federer,Rafael Nadal,Matteo Berrettini,Novak Djokovic,Current Affairs
+Which global event was postponed for the first time since World War II due to the COVID-19 pandemic?,Tokyo Olympics,FIFA World Cup,G20 Summit,Olympic Games,Olympic Games,Current Affairs
+Which company announced plans to send tourists to space aboard its spacecraft named 'New Shepard'?,Virgin Galactic,Blue Origin,SpaceX,Tesla,Blue Origin,Current Affairs
+Which country recently became the first in the world to approve a COVID-19 vaccine for children under 12 years old?,United States,China,India,United Kingdom,China,Current Affairs
+Who won the 2021 Booker Prize for Fiction?,Bernardine Evaristo,Douglas Stuart,Brandon Taylor,Colum McCann,Douglas Stuart,Current Affairs
+Which Indian state recently declared the Mithun as its state animal?,Manipur,Nagaland,Assam,Arunachal Pradesh,Arunachal Pradesh,Current Affairs
+Who is the current Chief Justice of India?,N. V. Ramana,S. A. Bobde,Sharad Arvind Bobde,Ranjan Gogoi,N. V. Ramana,Current Affairs
+Which Indian city topped the 'Ease of Living Index 2020' released by the Ministry of Housing and Urban Affairs?,Bengaluru,Chennai,Delhi,Mumbai,Bengaluru,Current Affairs
+Which Indian state recently launched the 'Mukhyamantri Mahila Utkarsh Yojana' to empower women?,Rajasthan,Uttar Pradesh,Gujarat,Bihar,Uttar Pradesh,Current Affairs
+Who is the current Chief of Defence Staff (CDS) of India?,Bipin Rawat,Manoj Mukund Naravane,Rajendra Singh,Karambir Singh,Bipin Rawat,Current Affairs
+Which Indian actor recently won the Best Actor award at the Cannes Film Festival?,Nawazuddin Siddiqui,Vicky Kaushal,Rajkummar Rao,Irrfan Khan,Nawazuddin Siddiqui,Current Affairs
+Which country recently won the ICC Men's T20 World Cup 2021?,India,Australia,Pakistan,England,Australia,Current Affairs
+Who is the current Chief Minister of West Bengal?,Mamata Banerjee,Amit Shah,Yogi Adityanath,Nitish Kumar,Mamata Banerjee,Current Affairs
+Which Indian state recently announced the implementation of the 'One Nation-One Ration Card' scheme?,Uttar Pradesh,Maharashtra,Rajasthan,Kerala,Uttar Pradesh,Current Affairs
+Who won the Nobel Prize in Physiology or Medicine in 2021?,David Julius and Ardem Patapoutian,"Harvey J. Alter, Michael Houghton, and Charles M. Rice",Ardem Patapoutian and David Julius,Srinivas N. Kulkarni,David Julius and Ardem Patapoutian,Current Affairs
+Which Indian sportsperson recently became the first to win a gold medal at the World Badminton Championships?,P. V. Sindhu,Pullela Gopichand,Kidambi Srikanth,Saina Nehwal,P. V. Sindhu,Current Affairs
+Which country recently hosted the COP26 Climate Summit?,United Kingdom,Japan,France,Italy,United Kingdom,Current Affairs
+Who is the current Chief Election Commissioner of India?,Sushil Chandra,Sunil Arora,Ashok Lavasa,Om Prakash Rawat,Ashok Lavasa,Current Affairs
+Which Indian state recently announced the implementation of the 'Mission Shakti' program to ensure women's safety?,Uttarakhand,Madhya Pradesh,Chhattisgarh,Jharkhand,Uttarakhand,Current Affairs
+Who won the Nobel Prize in Literature in 2021?,Abdulrazak Gurnah,Kazuo Ishiguro,Maria Stepanova,Maryse CondÃ©,Abdulrazak Gurnah,Current Affairs
+Which Indian state recently launched the 'Mukhyamantri Chiranjeevi Swasthya Bima Yojana' to provide health insurance to all residents?,Gujarat,Haryana,Punjab,Odisha,Gujarat,Current Affairs
+Who is the current Chairman of the Union Public Service Commission (UPSC)?,Arvind Saxena,Pradeep Kumar Joshi,Arun Kumar Sharma,Vinay Mittal,Arvind Saxena,Current Affairs
+Which Indian city recently inaugurated the first underwater metro project in the country?,Mumbai,Kolkata,Chennai,Delhi,Kolkata,Current Affairs
+Which Indian state recently announced the implementation of the 'One Nation-One Ration Card' scheme?,Uttar Pradesh,Maharashtra,Rajasthan,Gujarat,Maharashtra,Current Affairs
+Who won the Nobel Prize in Physiology or Medicine in 2021?,David Julius and Ardem Patapoutian,"Harvey J. Alter, Michael Houghton, and Charles M. Rice",Ardem Patapoutian and David Julius,Srinivas N. Kulkarni,"Harvey J. Alter, Michael Houghton, and Charles M. Rice",Current Affairs
+Which Indian sportsperson recently became the first to win a gold medal at the World Badminton Championships?,P. V. Sindhu,Kidambi Srikanth,Saina Nehwal,PV Sindhu,Kidambi Srikanth,Current Affairs
+Which country recently hosted the COP26 Climate Summit?,France,Japan,United Kingdom,Italy,United Kingdom,Current Affairs
+Who is the current Chief Election Commissioner of India?,Sunil Arora,Ashok Lavasa,Om Prakash Rawat,Vinay Mittal,Ashok Lavasa,Current Affairs
+Which Indian state recently announced the implementation of the 'Mission Shakti' program to ensure women's safety?,Uttarakhand,Uttar Pradesh,Haryana,Himachal Pradesh,Uttar Pradesh,Current Affairs
+Who won the Nobel Prize in Literature in 2021?,Abdulrazak Gurnah,Kazuo Ishiguro,Maria Stepanova,Maryse CondÃ©,Kazuo Ishiguro,Current Affairs
+Which Indian state recently launched the 'Mukhyamantri Chiranjeevi Swasthya Bima Yojana' to provide health insurance to all residents?,Gujarat,Haryana,Punjab,Odisha,Gujarat,Current Affairs
+Who is the current Chairman of the Union Public Service Commission (UPSC)?,Arvind Saxena,Pradeep Kumar Joshi,Arun Kumar Sharma,Vinay Mittal,Arvind Saxena,Current Affairs
+Which Indian city recently inaugurated the first underwater metro project in the country?,Kolkata,Chennai,Delhi,Mumbai,Kolkata,Current Affairs
+Which of the following actions contributes positively to biodiversity conservation?,Overfishing of marine species,Clear-cutting of forests for agriculture,Implementation of protected areas and reserves,Industrial pollution without regulation,Implementation of protected areas and reserves,Environmental
+What is the primary reason for the current rapid decline in global biodiversity?,Natural disasters,Human activities,Climate variability,Predation,Human activities,Environmental
+"What international agreement aims to conserve biodiversity, ensure its sustainable use, and promote equitable sharing of benefits arising from genetic resources?",Paris Agreement,Kyoto Protocol,Convention on Biological Diversity,Montreal Protocol,Convention on Biological Diversity,Environmental
+What is the term for the primary greenhouse gas responsible for global warming?,Carbon dioxide,Methane,Nitrous oxide,Water vapor,Carbon dioxide,Environmental
+Which term describes the gradual increase in the Earth's average temperature due to human activities?,Global cooling,Climate change,Ozone depletion,Greenhouse effect,Climate change,Environmental
+What is the process by which plants convert carbon dioxide and water into glucose and oxygen using sunlight?,Photosynthesis,Respiration,Transpiration,Decomposition,Photosynthesis,Environmental
+Which ecosystem is characterized by low precipitation and is dominated by grasses and shrubs?,Tundra,Taiga,Desert,Rainforest,Desert,Environmental
+What is the term for the variety of life forms in a particular habitat or ecosystem?,Habitat diversity,Species diversity,Ecosystem diversity,Genetic diversity,Biodiversity,Environmental
+Which of the following is a renewable energy source derived from the heat of the Earth's interior?,Solar energy,Wind energy,Geothermal energy,Hydroelectric energy,Geothermal energy,Environmental
+"What is the process by which an area becomes a desert due to deforestation, overgrazing, or drought?",Desertification,Deforestation,Erosion,Fragmentation,Desertification,Environmental
+Which international treaty aims to protect the ozone layer by phasing out the production of ozone-depleting substances?,Kyoto Protocol,Paris Agreement,Montreal Protocol,Basel Convention,Montreal Protocol,Environmental
+What is the term for the loss of a species from a particular habitat or ecosystem?,Extinction,Pollution,Erosion,Deforestation,Extinction,Environmental
+Which of the following is a non-renewable energy source derived from the remains of ancient plants and animals?,Solar energy,Wind energy,Fossil fuels,Biomass energy,Fossil fuels,Environmental
+What is the term for the process by which pollutants accumulate in the tissues of organisms as they move up the food chain?,Bioaccumulation,Biomagnification,Biodegradation,Bioconcentration,Biomagnification,Environmental
+Which of the following is NOT a greenhouse gas?,Carbon dioxide,Methane,Nitrogen,Water vapor,Nitrogen,Environmental
+"What is the term for the natural breakdown of rocks and minerals into smaller particles by physical, chemical, or biological processes?",Erosion,Weathering,Deposition,Sedimentation,Weathering,Environmental
+Which of the following is an example of a renewable resource?,Coal,Natural gas,Timber,Petroleum,Timber,Environmental
+What is the term for the introduction of harmful substances or contaminants into the environment?,Pollution,Conservation,Restoration,Preservation,Pollution,Environmental
+Which of the following is an example of a keystone species?,Wolf,Deer,Squirrel,Grasshopper,Wolf,Environmental
+What is the term for the total mass of living organisms in a given area?,Biomass,Biodiversity,Biome,Biogeography,Biomass,Environmental
+Which of the following is NOT a component of the water cycle?,Precipitation,Transpiration,Filtration,Evaporation,Filtration,Environmental
+What is the term for the gradual increase in the Earth's average surface temperature due to human activities?,Global warming,Climate change,Greenhouse effect,Ozone depletion,Global warming,Environmental
+Which of the following is a method of sustainable agriculture that involves planting a variety of crops in the same area?,Monoculture,Polyculture,Deforestation,Desertification,Polyculture,Environmental
+"Which organization is known for its campaigns against environmental degradation, advocating for renewable energy, and promoting conservation efforts worldwide?",Sierra Club,Friends of the Earth,Environmental Defense Fund,National Audubon Society,Sierra Club,Environmental
+What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere?,Carbon dioxide,Methane,Nitrous oxide,Ozone,Carbon dioxide,Environmental
+Which human activity is the largest contributor to the increase in atmospheric carbon dioxide levels?,Deforestation,Agriculture,Industrial processes,Burning of fossil fuels,Burning of fossil fuels,Environmental
+"What is the term for the long-term variation in Earth's climate, including temperature, precipitation, and wind patterns?",Weather,Climate change,Atmospheric variability,Global warming,Climate change,Environmental
+Which region is particularly vulnerable to sea-level rise due to climate change?,Arctic,Sahara Desert,Amazon Rainforest,Himalayan Mountains,Himalayan Mountains,Environmental
+What is the main consequence of melting polar ice caps due to global warming?,Increased biodiversity,Decreased sea levels,Ocean acidification,Rising sea levels,Rising sea levels,Environmental
+Which of the following is NOT considered a greenhouse gas?,Water vapor,Carbon dioxide,Nitrogen,Methane,Nitrogen,Environmental
+What is the term for the phenomenon where the Earth's average temperature continues to rise over time?,Global cooling,Climate fluctuation,Global warming,Temperature anomaly,Global warming,Environmental
+Which natural event can contribute to climate change by releasing large amounts of greenhouse gases?,Volcanic eruption,Earthquake,Tsunami,Meteor impact,Volcanic eruption,Environmental
+"What is the main cause of the depletion of the ozone layer, contributing indirectly to climate change?",Carbon emissions,Deforestation,Chlorofluorocarbons (CFCs),Methane emissions,Chlorofluorocarbons (CFCs),Environmental
+Which phenomenon refers to the long-term acidification of the ocean due to increased carbon dioxide levels in the atmosphere?,Ocean warming,Coral bleaching,Ocean acidification,Algal bloom,Ocean acidification,Environmental
+"What is the term for the transfer of heat within the atmosphere, oceans, and land masses, driving weather patterns and climate?",Oceanic circulation,Atmospheric circulation,Thermohaline circulation,Geothermal circulation,Atmospheric circulation,Environmental
+Which biome is particularly susceptible to changes in temperature and precipitation patterns caused by climate change?,Tundra,Tropical rainforest,Taiga,Grassland,Tropical rainforest,Environmental
+What is the term for the process by which carbon dioxide is removed from the atmosphere and stored in carbon sinks?,Carbon capture,Carbon sequestration,Carbon cycling,Carbon fixation,Carbon sequestration,Environmental
+Which of the following is a consequence of thawing permafrost due to climate change?,Decreased methane emissions,Increased carbon sink capacity,Release of greenhouse gases,Expansion of polar ice caps,Release of greenhouse gases,Environmental
+"What is the term for the process by which certain gases trap heat in the atmosphere, leading to a warming effect?",Albedo effect,Ozone depletion,Greenhouse effect,Ocean acidification,Greenhouse effect,Environmental
+"Which of the following human activities contributes to deforestation, a significant driver of climate change?",Agriculture,Renewable energy production,Protected area management,Carbon offsetting,Agriculture,Environmental
+What is the term for the study of the relationships between organisms and their environment?,Ecology,Conservation biology,Environmental science,Biodiversity,Ecology,Environmental
+Which of the following is NOT a level of ecological organization?,Biosphere,Community,Ecosystem,Genome,Genome,Environmental
+What is the term for a group of individuals of the same species living and interacting in the same area?,Population,Community,Ecosystem,Biome,Population,Environmental
+Which of the following best describes a symbiotic relationship where one organism benefits while the other is neither helped nor harmed?,Mutualism,Commensalism,Parasitism,Predation,Commensalism,Environmental
+What is the term for the role or function of an organism or species within an ecosystem?,Habitat,Biomass,Ecological niche,Biome,Ecological niche,Environmental
+Which of the following is an example of a decomposer in an ecosystem?,Grass,Deer,Mushroom,Wolf,Mushroom,Environmental
+What is the term for the process by which nutrients are returned to the soil from decomposed organic matter?,Photosynthesis,Respiration,Decomposition,Transpiration,Decomposition,Environmental
+Which of the following is NOT a primary producer in an ecosystem?,Grass,Tree,Deer,Algae,Deer,Environmental
+What is the term for the process by which organisms regulate their internal environment to maintain stability?,Adaptation,Evolution,Homeostasis,Symbiosis,Homeostasis,Environmental
+Which of the following factors does NOT contribute to the distribution of biomes?,Temperature,Precipitation,Atmospheric pressure,Sunlight,Atmospheric pressure,Environmental
+Which of the following is not a noble gas?,Helium,Neon,Argon,Krypton,Neon,Chemistry
+Which element has the chemical symbol 'Fe'?,Iron,Nickel,Copper,Potassium,Iron,Chemistry
+What is the chemical formula for water?,H2O,CO2,H2,H2O2,H2O,Chemistry
+What is the atomic number of carbon?,6,8,12,14,6,Chemistry
+Which acid is present in lemons?,Sulfuric acid,Citric acid,Hydrochloric acid,Acetic acid,Citric acid,Chemistry
+What is the chemical symbol for gold?,Au,Ag,Cu,Pb,Au,Chemistry
+What is the main component of natural gas?,Carbon dioxide,Methane,Oxygen,Nitrogen,Methane,Chemistry
+What is the pH of a neutral solution?,7,10,14,5,7,Chemistry
+Which gas gives fizzy drinks their bubbles?,Carbon dioxide,Nitrous oxide,Carbon monoxide,Hydrogen,Carbon dioxide,Chemistry
+What is the chemical name for baking soda?,Sulfuric acid,Hydrochloric acid,Citric acid,Acetic acid,Sodium bicarbonate,Chemistry
+What is the chemical formula for methane?,CH4,CO2,O,H2O,CH4,Chemistry
+Which metal is the best conductor of electricity?,Aluminum,Copper,Silver,Gold,Silver,Chemistry
+What is the SI unit of pressure?,Pascal,Newton,Kilogram,Hg,Pascal,Chemistry
+Which subatomic particle has a negative charge?,Proton,Neutron,Electron,Photon,Electron,Chemistry
+What is the chemical formula for ammonia?,NH3,O2,H2O2,H2O3,NH3,Chemistry
+What is the process of rusting an example of?,Sublimation,Condensation,Evaporation,Deposition,Oxidation,Chemistry
+Which metal is liquid at room temperature?,Iron,Zinc,Mercury,Sodium,Mercury,Chemistry
+Which gas is responsible for the depletion of the ozone layer?,Ozone,Carbon monoxide,Nitrous oxide,Carbon dioxide,Ozone,Chemistry
+Which type of bond shares electrons between atoms?,Ionic bond,Hydrogen bond,Covalent bond,Metallic bond,Covalent bond,Chemistry
+Which gas is commonly known as laughing gas?,CO2,N2O,H2O,NO2,N2O,Chemistry
+What is the process of a substance changing directly from a solid to a gas called?,Evaporation,Condensation,Sublimation,Deposition,Sublimation,Chemistry
+What is the chemical symbol for carbon dioxide?,CO,CO3,CO2,CO2,CO2,Chemistry
+What is the pH of a solution with a pH of 3?,5,7,9,11,3,Chemistry
+Which element is present in all organic compounds?,Hydrogen,Carbon,Oxygen,Nitrogen,Carbon,Chemistry
+What is the chemical formula for salt?,NaCl,NaHCO3,KCl,K2SO4,NaCl,Chemistry
+What is the process of separating a solid from a liquid using a filter called?,Decantation,Filtration,Distillation,Chromatography,Filtration,Chemistry
+What is the boiling point of water in Celsius?,100,0,50,373,100,Chemistry
+What is the chemical formula for ethanol?,CH4,C2H6O,C2H5OH,C2H4O,C2H5OH,Chemistry
+What type of reaction occurs when an alcohol reacts with a carboxylic acid?,Substitution,Addition,Condensation,Esterification,Esterification,Chemistry
+What functional group is present in an alcohol?,Carbonyl,Hydroxyl,Alkyl,Ester,Hydroxyl,Chemistry
+What is the name of the process by which alcohols are converted to alkenes?,Dehydration,Hydration,Halogenation,Polymerization,Dehydration,Chemistry
+What is the general formula for an alkane?,CnH2n+2,CnH2n,CnH2n+1OH,CnH2n+2O,CnH2n+2,Chemistry
+What is the IUPAC name for CH3CH2CH2OH?,Methanol,Ethanol,Propanol,Butanol,Ethanol,Chemistry
+What is the main functional group present in a carboxylic acid?,Carbonyl,Carboxyl,Hydroxyl,Carboxyl,Carboxyl,Chemistry
+What is the product when ethanoic acid reacts with ethanol?,Ester,Alcohol,Aldehyde,Ketone,Ester,Chemistry
+What type of reaction occurs when a carboxylic acid reacts with an alcohol?,Substitution,Hydrolysis,Esterification,Esterification,Esterification,Chemistry
+What is the name of the functional group in an alkene?,Carbonyl,Alkyl,Alkene,Halide,Alkene,Chemistry
+What is the general formula for an alkene?,CnH2n,CnH2n+2,CnH2n+1,CnH2n+2O,CnH2n,Chemistry
+What type of reaction occurs when an alkene reacts with hydrogen?,Addition,Substitution,Oxidation,Reduction,Addition,Chemistry
+What functional group is present in an aldehyde?,Hydroxyl,Carboxyl,Alkene,Ketone,Hydroxyl,Chemistry
+What is the product when ethanol is oxidized?,Ethanal,Ethanoic acid,Ethanoic acid,Ethylene,Ethanoic acid,Chemistry
+What is the IUPAC name for CH3CHO?,Propanal,Propanoic acid,Propanone,Propenal,Propanal,Chemistry
+What is the main functional group present in an ester?,Ester,Ether,Aldehyde,Ketone,Ester,Chemistry
+What type of reaction occurs when an ester reacts with an alcohol?,Addition,Condensation,Hydrolysis,Reduction,Esterification,Chemistry
+What is the product when ethanoic acid reacts with ethanol in the presence of a strong acid catalyst?,Ester,Ether,Alcohol,Ester,Ester,Chemistry
+What functional group is present in a ketone?,Ethyl,Ketone,Hydroxyl,Carbonyl,Ketone,Chemistry
+What is the product when propanone reacts with ethanal?,Butanol,Propanal,Propene,Propanone,Propenal,Chemistry
+What is the chemical name for vinegar?,Sulfuric acid,Acetic acid,Hydrochloric acid,Nitric acid,Acetic acid,Chemistry
+What is the chemical symbol for sodium bicarbonate?,NaHCO3,NaOH,NH4CO3,Na2CO3,NaHCO3,Chemistry
+What is the process of separating a solid from a liquid using a filter called?,Evaporation,Condensation,Sublimation,Filtration,Filtration,Chemistry
+Which of the following is not a type of plate boundary?,Convergent boundary,Divergent boundary,Conservative boundary,Isolated boundary,Isolated boundary,Geography
+Which of the following is the largest freshwater lake by surface area?,Lake Superior,Lake Victoria,Lake Baikal,Great Bear Lake,Lake Superior,Geography
+The 'Roaring Forties' refer to which oceanic phenomenon?,Intertropical Convergence Zone,Westerlies,Trade winds,Antarctic Circumpolar Current,Westerlies,Geography
+The 'Ring of Fire' is associated with which geological phenomenon?,Volcanic activity,Earthquakes,Tidal waves,Glacial movement,Volcanic activity,Geography
+The term 'El Niño' is associated with,Oceanic phenomenon,Atmospheric phenomenon,Climatic phenomenon,All of the above,All of the above,Geography
+The Richter scale measures the,Intensity of earthquakes,Magnitude of earthquakes,Frequency of earthquakes,Duration of earthquakes,Magnitude of earthquakes,Geography
+Which of the following is not a primary greenhouse gas?,Carbon dioxide (CO2),Methane (CH4),Nitrous oxide (N2O),Oxygen (O2),Oxygen (O2,Geography
+The Himalayas are formed as a result of,Convergent plate boundary,Divergent plate boundary,Transform plate boundary,Subduction zone,Convergent plate boundary,Geography
+The Prime Meridian passes through which city?,Greenwich,Paris,New York,Berlin,Greenwich,Geography
+Which of the following is a tributary of the Amazon River?,Orinoco River,Paraguay River,Rio Negro,Yukon River,Rio Negro,Geography
+The term 'Monsoon' is derived from which language?,Hindi,Arabic,Chinese,Sanskrit,Sanskrit,Geography
+The 'Great Barrier Reef' is located off the coast of which country?,Australia,Brazil,India,Japan,Australia,Geography
+Which of the following deserts is not located in Africa?,Sahara Desert,Kalahari Desert,Atacama Desert,Namib Desert,Atacama Desert,Geography
+The 'Sahel' region is located between which two geographical features?,Sahara Desert and Arabian Desert,Sahara Desert and Savannah,Arabian Desert and Gobi Desert,Amazon Rainforest and Congo Basin,Sahara Desert and Savannah,Geography
+Which of the following is not a factor influencing climate?,Latitude,Altitude,Ocean currents,Population density,Population density,Geography
+The 'Taiga' biome is characterized by which type of vegetation?,Coniferous forests,Tropical rainforests,Grasslands,Deciduous forests,Coniferous forests,Geography
+Which of the following is an example of a renewable energy resource?,Coal,Natural gas,Solar power,Petroleum,Solar power,Geography
+Which of the following is not a type of soil?,Loamy soil,Sandy soil,Silty soil,Calcium soil,Calcium soil,Geography
+The 'Ozone Layer' is found in which layer of the Earth's atmosphere?,Troposphere,Stratosphere,Mesosphere,Thermosphere,Stratosphere,Geography
+The process of soil erosion can be mitigated by,Afforestation,Overgrazing,Deforestation,Urbanization,Afforestation,Geography
+Which of the following rivers does not originate in India?,Ganges,Yamuna,Brahmaputra,Mekong,Mekong,Geography
+The 'Green Revolution' in India primarily aimed to increase the production of,Wheat,Rice,Millet,Pulses,Wheat,Geography
+The 'Tropic of Cancer' passes through how many Indian states?,5,6,7,8,6,Geography
+Which of the following is a landlocked country in South America?,Brazil,Argentina,Bolivia,Chile,Bolivia,Geography
+Which of the following is the largest rainforest in the world?,Amazon Rainforest,Congo Rainforest,Borneo Rainforest,Daintree Rainforest,Amazon Rainforest,Geography
+The 'Indus Water Treaty' was signed between India and which other country?,China,Nepal,Pakistan,Bangladesh,Pakistan,Geography
+The 'Marina Trench' is located in which ocean?,Atlantic Ocean,Indian Ocean,Pacific Ocean,Arctic Ocean,Pacific Ocean,Geography
+The 'Doldrums' are associated with which atmospheric phenomenon?,Low pressure zone,High pressure zone,Westerlies,Trade winds,Low pressure zone,Geography
+The 'Fertile Crescent' is located in which region?,South America,North America,Middle East,Africa,Middle East,Geography
+Which of the following is not a component of soil?,Humus,Minerals,Organic matter,Water vapor,Water vapor,Geography
+Which of the following mountain ranges is not located in Europe?,Alps,Pyrenees,Andes,Carpathians,Andes,Geography
+The 'Gobi Desert' is located primarily in which country?,China,Mongolia,Kazakhstan,Russia,Mongolia,Geography
+The 'West African Monsoon' brings rainfall to which region?,East Africa,West Africa,Southern Africa,North Africa,West Africa,Geography
+Which of the following is not a factor influencing soil formation?,Climate,Topography,Vegetation,Population density,Population density,Geography
+The 'Mekong River' flows through which country?,China,Thailand,Cambodia,All of the above,All of the above,Geography
+The 'Davis Strait' separates which two landmasses?,Greenland and Iceland,Greenland and Canada,Canada and Alaska,Norway and Iceland,Greenland and Canada,Geography
+The 'Sargasso Sea' is known for its abundance of,Seaweed,Coral reefs,Phytoplankton,Marine mammals,Seaweed,Geography
+The 'Aleutian Islands' are part of which country?,Russia,Canada,United States,Japan,United States,Geography
+The 'Biosphere Reserve' concept aims to conserve,Wildlife habitats,Genetic resources,Ecosystems,All of the above,All of the above,Geography
+The 'Saffir-Simpson Scale' is used to measure the,Wind speed of hurricanes,Earthquake magnitude,Intensity of tornadoes,Severity of droughts,Wind speed of hurricanes,Geography
+Which of the following countries is not located in the Horn of Africa?,Ethiopia,Somalia,Kenya,Tanzania,Tanzania,Geography
+The 'Greenwich Mean Time (GMT)' is the standard time reference for which location?,"Greenwich, England","New York, USA","Paris, France","Tokyo, Japan","Greenwich, England",Geography
+The 'Amazon Basin' is drained by which river?,Amazon River,Paraguay River,Orinoco River,Rio de la Plata,Amazon River,Geography
+Which of the following is not a type of glacier?,Valley glacier,Cirque glacier,Moraine glacier,Tundra glacier,Tundra glacier,Geography
+The 'Doppler Effect' is associated with which natural phenomenon?,Ocean tides,Earthquakes,Sound waves,Volcanic eruptions,Sound waves,Geography
+The 'Tides' are primarily caused by,Gravitational pull of the Moon,Gravitational pull of the Sun,Rotation of the Earth,Solar wind,Gravitational pull of the Moon,Geography
+The 'Karakoram Highway' connects which two countries?,Pakistan and India,India and China,Pakistan and China,Afghanistan and China,Pakistan and China,Geography
+Which of the following is the longest river in South America?,Amazon River,Orinoco River,Paraná River,Magdalena River,Amazon River,Geography
+The 'Dead Sea' is located between which two countries?,Israel and Lebanon,Israel and Jordan,Jordan and Iraq,Israel and Syria,Israel and Jordan,Geography
+The 'Gobi Desert' is known for its frequent occurrence of,Sandstorms,Snowstorms,Hurricanes,Tsunamis,Sandstorms,Geography
