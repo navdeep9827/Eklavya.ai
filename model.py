@@ -1,17 +1,21 @@
-def softmax(x):
-    """
-    Compute softmax values for each sets of scores in x.
-    """
-    e_x = np.exp(-np.array(x))
-    return e_x / e_x.sum()
+import numpy as np
 
-# Function to calculate softmax after dividing by total marks
-def softmax_with_total_marks(marks_list, total_marks_per_subject):
-    normalized_marks = [mark / total_marks_per_subject for mark in marks_list]
-    probabilities = softmax(normalized_marks)
-    return probabilities
+def softmax_with_total_marks(marks_dict):
+    """
+    Compute softmax values for marks in each subject in the marks_dict.
 
-# Example usage:
-marks = [20, 15, 18, 22, 13]  # Example marks for each subject
-total_marks_per_subject = 25  # Total marks for each subject
-probabilities = softmax_with_total_marks(marks, total_marks_per_subject)
+    Args:
+    - marks_dict (dict): A dictionary where keys represent subjects and values represent marks or scores.
+
+    Returns:
+    - probabilities_dict (dict): A dictionary where keys are subjects and values are their respective probabilities after applying softmax.
+    """
+    # Compute softmax values
+    e_x = np.exp(-np.array(list(marks_dict.values())))
+    probabilities = e_x / e_x.sum()
+
+    # Create dictionary with subjects as keys and probabilities as values
+    probabilities_dict = dict(zip(marks_dict.keys(), probabilities))
+    
+    return probabilities_dict
+
